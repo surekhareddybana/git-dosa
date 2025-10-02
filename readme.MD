@@ -9,3 +9,5 @@ cooking soda
 # karam dosa
 dosa batter
 karam
+# egg dosa
+dosa batter
